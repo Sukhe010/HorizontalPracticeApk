@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">HorizontalPracticeApk</string>
+    <string name="textview">TextView</string>
+    <string name="todo">TODO</string>
+    <string name="whattodo">TODO</string>
+    <string name="swipe_left_to_see_more">Swipe left to see more</string>
+</resources>
